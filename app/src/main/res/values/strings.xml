@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">POSSDKPRODemo</string>
+    <string name="as_printname" translatable="false">Printer Name:</string>
+    <string name="at_serial" translatable="false">Serial</string>
+    <string name="at_serialname" translatable="false">Serial Name:</string>
+    <string name="at_serialportbaud" translatable="false">Baud rate:</string>
+    <string name="as_search" translatable="false">Search</string>
+    <string name="at_connect" translatable="false">Connect</string>
+    <string name="at_disconnect" translatable="false">Disconnect</string>
+    <string name="at_printsample" translatable="false">Print Restaurant Sample</string>
+    <string name="at_barcodeSample" translatable="false">Print Barcode Sample</string>
+    <string name="at_imageSample" translatable="false">Print Image Sample</string>
+    <string name="at_bluetooth" translatable="false">BlueTooth</string>
+    <string name="at_ipaddress" translatable="false">IP Address：</string>
+
+    <string name="openportsuccess" translatable="false">Open port success! </string>
+    <string name="openportfail" translatable="false">Open port fail! </string>
+    <string name="closeportsuccess" translatable="false">Close port success! </string>
+    <string name="closeportfail" translatable="false">Close port fail! </string>
+    <string name="success" translatable="false">Success! </string>
+    <string name="fail" translatable="false">Fail! </string>
+
+    <string name="DeviceNotFound" translatable="false">Device not found! </string>
+    <string name="Printing" translatable="false">Printing! </string>
+    <string name="status" translatable="false">Status: </string>
+    <string name="Searching" translatable="false">Searching </string>
+    <string name="ClickButtonUSB" translatable="false">Click the search button, and then click the list below to connect the device! </string>
+
+    <string name="ClickButtonBlueThooth" translatable="false">Click the search button, and then click the list device below to connect (only display paired devices)! </string>
+    <string name="ClickButtonNet" translatable="false">1. Click the search button, and then click the list below to connect the device.\n2. Input the IP address and click the connect button to connect the device.
+    </string>
+</resources>

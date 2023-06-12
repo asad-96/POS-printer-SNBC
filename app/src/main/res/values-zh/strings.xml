@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">POSSDKPRODemo</string>
+    <string name="as_printname" translatable="false">打印机名称：</string>
+    <string name="at_serial" tools:ignore="MissingTranslation">串口</string>
+    <string name="at_serialname" tools:ignore="MissingTranslation">端口名称：</string>
+    <string name="at_serialportbaud" translatable="false">波特率：</string>
+    <string name="as_search" translatable="false">搜索</string>
+    <string name="at_connect" translatable="false">连接</string>
+    <string name="at_disconnect" translatable="false">断开连接</string>
+    <string name="at_bluetooth" translatable="false">蓝牙</string>
+    <string name="at_ipaddress" translatable="false">IP 地址：</string>
+    <string name="at_printsample" translatable="false">打印餐饮样张</string>
+    <string name="at_barcodeSample" translatable="false">打印条码样张</string>
+    <string name="at_imageSample" translatable="false">打印位图样张</string>
+    <string name="openportsuccess" translatable="false">打开端口成功！ </string>
+    <string name="openportfail" translatable="false">打开端口失败！ </string>
+    <string name="closeportsuccess" translatable="false">关闭端口成功！ </string>
+    <string name="closeportfail" translatable="false">关闭端口失败！ </string>
+    <string name="success" translatable="false">成功！ </string>
+    <string name="fail" translatable="false">失败！</string>
+    <string name="DeviceNotFound" translatable="false">未搜索到设备！</string>
+    <string name="status" translatable="false">状态： </string>
+    <string name="Searching" translatable="false">正在搜索</string>
+    <string name="Printing" translatable="false">正在打印 </string>
+    <string name="ClickButtonUSB" translatable="false">点击搜索按钮，然后点击下方列表设备即可连接！</string>
+    <string name="ClickButtonBlueThooth" translatable="false">点击搜索按钮，然后点击下方列表设备即可连接(仅显示已配对设备)！ </string>
+    <string name="ClickButtonNet" translatable="false">1.点击搜索按钮，然后点击下方列表设备即可连接。\n2.输入ip地址，点击连接按钮，即可连接设备。
+    </string>
+
+</resources>
